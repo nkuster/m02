@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'm02'
+project = 'Maurice Fischer'
 copyright = '2018, Maurice Fischer'
 author = 'Maurice Fischer'
 
@@ -38,7 +38,7 @@ release = '0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
+extensions = ['sphinxcontrib.youtube'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -58,7 +58,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'de'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.

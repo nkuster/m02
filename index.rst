@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to m02's documentation!
-===============================
+================================
+Willkommen auf meiner Homepage!
+================================
+
+.. image:: maurice.jpg
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Inhalt:
 
+   uebermich/readme.rst
+   passwort/generator.rst
+   turtle_game/robot.rst
+   kaleido/spirale.rst
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
