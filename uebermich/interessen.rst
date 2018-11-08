@@ -33,7 +33,7 @@ Meine Lieblingsfiguren
 Deadpool
 """"""""
 
-Innerhalb der Welt von Marvel Comics existiert keine definitve Biografie von Deadpool. In den Comics wird dies damit erklärt, dass Deadpool an Amnesie leidet und zur begrenzt zurechnungsfähig ist. Zudem kann er die vierte Wand durchbrechen und potentiell selbst seine Biografie ändern.
+Innerhalb der Welt von Marvel Comics existiert keine definitve Biografie von Deadpool. In den Comics wird dies damit erklärt, dass Deadpool an Amnesie leidet und nur begrenzt zurechnungsfähig ist. Zudem kann er die vierte Wand durchbrechen und potentiell selbst seine Biografie ändern.
 
 .. image:: images/deadpool.jpg
 
