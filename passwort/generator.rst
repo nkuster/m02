@@ -1,7 +1,7 @@
 Passwort-Generator
 ==================
 
-Das Programm wählt die vier Teile des Passworts zufällig aus, setzt sie zusammen und zeigt das Passwort an. Wenn du das Passwort nicht magst, wiederholt es die Schritte, gefällt es dir, endet das Programm.
+Das Programm wählt die vier Teile des Passworts zufällig aus, setzt sie zusammen und zeigt das Passwort an. Wenn mir das Passwort nicht gefällt, wiederholt es die Schritte, bin ich damit zufrieden, endet das Programm.
 
 .. code-block:: python
 

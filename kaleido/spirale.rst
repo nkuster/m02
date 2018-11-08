@@ -1,7 +1,7 @@
 Kaleido-Spirale
 ===============
 
-In diesem Projekt schichtest du mit dem Modul ``turtle`` und einer klugen Schleifenmethode Kreise spiralig übereinander. Immer, wenn ein Kreis gezeichnet wird, erhöht das Programm die Parameter des Codes, der die Kreise zeichnet. Jeder Kreis ist anders als der vorhergehende, sodass das Muster interessanter wird.
+In diesem Projekt schichte du mit dem Modul ``turtle`` und einer klugen Schleifenmethode Kreise spiralig übereinander. Immer, wenn ein Kreis gezeichnet wird, erhöht das Programm die Parameter des Codes, der die Kreise zeichnet. Jeder Kreis ist anders als der vorhergehende, sodass das Muster interessanter wird.
 
 .. code-block:: python
 

@@ -1,7 +1,7 @@
 Robot-Zeichner
 ==============
 
-Zuerst schreibst du eine Funktion, die Rechtecke zeichnet. Dann stellst du die Rechtecke zu einem Roboter zusammen. Farben und Grössen kannst du anhand der Parameter ändern, die du der Funktion übergibst. Lange, dünne Rechtecke können also die Beine bilden, quadratische die Augen und so weiter.
+Zuerst schreibe ich eine Funktion, die Rechtecke zeichnet. Dann stelle ich die Rechtecke zu einem Roboter zusammen. Farben und Grössen kann ich anhand der Parameter ändern, die ich der Funktion übergebe. Lange, dünne Rechtecke können also die Beine bilden, quadratische die Augen und so weiter.
 
 .. code-block:: python
 
