@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20c81c3d-b2a0-4968-ae04-fe51bbf2bf5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kaleido/images/kaleido.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaleido/images/kaleido2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaleido/images/test1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaleido/images/test2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaleido/spirale.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maurice.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passwort/generator.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_game/images/robot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_game/robot.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uebermich/images/car1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uebermich/images/car2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uebermich/images/deadpool.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uebermich/images/marvel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uebermich/images/rocket_groot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uebermich/interessen.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uebermich/readme.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/doctrees/environment.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/_build/doctrees/environment.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/doctrees/index.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/_build/doctrees/index.doctree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/.buildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/.buildinfo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/_sources/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/index.rst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/_static/documentation_options.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_static/documentation_options.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/genindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/genindex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/objects.inv" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/objects.inv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/searchindex.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/index.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,11 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="297">
+              <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -91,7 +63,7 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kaleido/spirale.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
@@ -142,13 +114,13 @@
         <option value="$PROJECT_DIR$/uebermich/images/interessen.rst" />
         <option value="$PROJECT_DIR$/uebermich/ich.rst" />
         <option value="$PROJECT_DIR$/uebermich/readme.rst" />
-        <option value="$PROJECT_DIR$/conf.py" />
         <option value="$PROJECT_DIR$/uebermich/interessen.rst" />
         <option value="$PROJECT_DIR$/passwort/generator.rst" />
         <option value="$PROJECT_DIR$/Turtle Game/robot.rst" />
         <option value="$PROJECT_DIR$/turtle_game/robot.rst" />
         <option value="$PROJECT_DIR$/index.rst" />
         <option value="$PROJECT_DIR$/kaleido/spirale.rst" />
+        <option value="$PROJECT_DIR$/conf.py" />
       </list>
     </option>
   </component>
@@ -279,13 +251,6 @@
     <entry file="file://$PROJECT_DIR$/uebermich/readme.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uebermich/images/Guardians-Galaxy-2-Baby-Groot-Trailer.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -320,6 +285,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kaleido/spirale.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
