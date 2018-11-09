@@ -47,6 +47,7 @@ Die Guardians of the Galaxy sind ein bunt zusammengewürfelter Haufen, dessen An
 .. image:: images/rocket_groot.jpg
 
 Bild-Quellen
+************
 
  * https://provincetown.sterenelectronics.com
  * https://www.gimmik.net
