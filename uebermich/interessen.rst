@@ -45,3 +45,10 @@ Guardians of the Galaxy
 Die Guardians of the Galaxy sind ein bunt zusammengewürfelter Haufen, dessen Anführer Star-Lord ein Relikt in die Finger bekommt, dass die Fähigkeit hat, ganze Galaxien zu zerstören. Ronan, einer von Thanos Admirälen, jagt die Guardians von Planet zu Planet um sie zu vernichten und den Orb, der unbeschreibliche Macht verspricht, für sich zu bekommen.
 
 .. image:: images/rocket_groot.jpg
+
+Bild-Quellen
+
+ * https://provincetown.sterenelectronics.com
+ * https://www.gimmik.net
+ * https://www.wearethemighty.com
+ * https://www.cinetelia.com
