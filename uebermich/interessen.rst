@@ -49,7 +49,7 @@ Die Guardians of the Galaxy sind ein bunt zusammengewürfelter Haufen, dessen An
 Bild-Quellen
 ************
 
- * https://provincetown.sterenelectronics.com
- * https://www.gimmik.net
- * https://www.wearethemighty.com
- * https://www.cinetelia.com
+ * https://provincetown.sterenelectronics.com/product/litehawk-max-rock-racer-4wd-r-c-car/
+ * https://www.ebay.com/p/VRX-Racing-1-10-Scale-Octane-Brushless-Desert-Truggy-RC-Car-4wd-Truck-RTR-Rh1045/4020073350
+ * http://cafenews.info/14/6462796-deadpool-2.html
+ * https://amecomi.online/movie/marvel-guardian-of-the-galaxy-vol2-preview
